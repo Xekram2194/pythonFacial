@@ -1,0 +1,2 @@
+# pythonFacial
+Reconocimiento facial
